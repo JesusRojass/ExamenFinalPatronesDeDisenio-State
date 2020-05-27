@@ -1,0 +1,12 @@
+/Users/rojas/Documents/UP/Patrones de Diseño/ExamenFinal/bin/Debug/netcoreapp3.1/ExamenFinal.deps.json
+/Users/rojas/Documents/UP/Patrones de Diseño/ExamenFinal/bin/Debug/netcoreapp3.1/ExamenFinal.runtimeconfig.json
+/Users/rojas/Documents/UP/Patrones de Diseño/ExamenFinal/bin/Debug/netcoreapp3.1/ExamenFinal.runtimeconfig.dev.json
+/Users/rojas/Documents/UP/Patrones de Diseño/ExamenFinal/bin/Debug/netcoreapp3.1/ExamenFinal.dll
+/Users/rojas/Documents/UP/Patrones de Diseño/ExamenFinal/bin/Debug/netcoreapp3.1/ExamenFinal.pdb
+/Users/rojas/Documents/UP/Patrones de Diseño/ExamenFinal/obj/Debug/netcoreapp3.1/ExamenFinal.csprojAssemblyReference.cache
+/Users/rojas/Documents/UP/Patrones de Diseño/ExamenFinal/obj/Debug/netcoreapp3.1/ExamenFinal.csproj.CoreCompileInputs.cache
+/Users/rojas/Documents/UP/Patrones de Diseño/ExamenFinal/obj/Debug/netcoreapp3.1/ExamenFinal.AssemblyInfoInputs.cache
+/Users/rojas/Documents/UP/Patrones de Diseño/ExamenFinal/obj/Debug/netcoreapp3.1/ExamenFinal.AssemblyInfo.cs
+/Users/rojas/Documents/UP/Patrones de Diseño/ExamenFinal/obj/Debug/netcoreapp3.1/ExamenFinal.dll
+/Users/rojas/Documents/UP/Patrones de Diseño/ExamenFinal/obj/Debug/netcoreapp3.1/ExamenFinal.pdb
+/Users/rojas/Documents/UP/Patrones de Diseño/ExamenFinal/obj/Debug/netcoreapp3.1/ExamenFinal.genruntimeconfig.cache
