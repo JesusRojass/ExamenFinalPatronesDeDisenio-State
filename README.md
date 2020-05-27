@@ -1,13 +1,13 @@
 # ExamenFinalPatronesDeDisenio-State
 Realizar una aplicación que simule la funcionalidad de un cajero automático
 
-El cajero automático debe considerar los siguientes Estados:
+# El cajero automático debe considerar los siguientes Estados:
 -SinTarjeta
 -TarjetaValidada
 -EntregadeDinero
 -FueraDeServicio
 
-Consideraciones para el Cajero Automático:
+# Consideraciones para el Cajero Automático:
 -El cajero deberá inicializarse con una cantidad de dinero por default de 5000 pesos.
 -Cada que un cliente retire dinero el programa deberá validar si aún existe saldo en cajero.
 -Los únicos pines validos para efectos de prueba serán 1234, 4321.
