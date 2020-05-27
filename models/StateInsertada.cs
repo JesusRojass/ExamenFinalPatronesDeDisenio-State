@@ -18,7 +18,7 @@ namespace ExamenFinal{
         public void SacarDinero(){
             System.Console.WriteLine("Cuanto dinero deseas retirar?");
             cantidadARetirar = Convert.ToInt32(System.Console.ReadLine());
-            if (cantidadARetirar < dineroDisponible){
+            if (cantidadARetirar <= dineroDisponible){
                 dineroDisponible -= cantidadARetirar;
                 System.Console.WriteLine("Retiraste exitosamente: $" + cantidadARetirar + ", te queda un saldo de: $" + dineroDisponible);
             } else {
